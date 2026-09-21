@@ -1,0 +1,6 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "seller-diagnosis-automator",
+  "version": "0.2.0",
+  "description": "Evidence-based Mercado Libre seller diagnosis, remediation planning, and Spanish title optimization for KAM teams."
+}

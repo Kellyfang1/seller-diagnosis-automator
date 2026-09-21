@@ -1,5 +1,17 @@
 # Publishing and Pilot Guide
 
+## Public submission
+
+Use `OPENAI_SUBMISSION.md` to complete a skills-only submission in the OpenAI
+plugin submission portal. Before submission, replace the placeholder publisher
+references with the exact verified OpenAI developer or business identity, host
+the support, privacy, and terms pages at public URLs, and upload the final
+plugin bundle. The portal requires five positive and three negative test cases;
+the reviewed cases are included in the submission kit.
+
+Submitting starts OpenAI review. It does not make the plugin public until the
+publisher selects Publish after approval.
+
 ## Pilot
 
 1. Open the plugin from the Codex Share screen.
