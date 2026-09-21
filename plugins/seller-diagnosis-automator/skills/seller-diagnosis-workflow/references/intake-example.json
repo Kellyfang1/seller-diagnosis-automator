@@ -1,0 +1,26 @@
+{
+  "site": "MLM",
+  "merchantId": "example-merchant",
+  "sellerName": "Example Seller",
+  "storeUrl": "https://listado.mercadolibre.com.mx/pagina/example/",
+  "vertical": "FASHION",
+  "category": "Women's activewear",
+  "customerScenario": "Yoga and gym",
+  "priceCurrency": "MXN",
+  "priceBand": "Entry to mid",
+  "businessMode": "CBT",
+  "decision": "Select the first-round listings for content and price testing.",
+  "reportingPeriod": "L30D ending YYYY-MM-DD",
+  "evidence": {
+    "sellerMetrics": true,
+    "listingExtract": true,
+    "storefront": true,
+    "priceReference": false,
+    "contentAndInventory": true
+  },
+  "outputs": [
+    "internalBrief",
+    "sellerWorkbook",
+    "sellerMessage"
+  ]
+}

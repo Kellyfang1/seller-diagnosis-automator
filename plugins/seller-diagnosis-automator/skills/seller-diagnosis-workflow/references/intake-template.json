@@ -1,0 +1,26 @@
+{
+  "site": "MLM",
+  "merchantId": "",
+  "sellerName": "",
+  "storeUrl": "",
+  "vertical": "FASHION",
+  "category": "",
+  "customerScenario": "",
+  "priceCurrency": "MXN",
+  "priceBand": "",
+  "businessMode": "",
+  "decision": "",
+  "reportingPeriod": "",
+  "evidence": {
+    "sellerMetrics": false,
+    "listingExtract": false,
+    "storefront": false,
+    "priceReference": false,
+    "contentAndInventory": false
+  },
+  "outputs": [
+    "internalBrief",
+    "sellerWorkbook",
+    "sellerMessage"
+  ]
+}

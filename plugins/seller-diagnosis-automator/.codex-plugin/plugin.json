@@ -1,0 +1,26 @@
+{
+  "name": "seller-diagnosis-automator",
+  "version": "0.1.0",
+  "description": "Evidence-based Mercado Libre seller diagnosis, remediation planning, and title optimization for KAM teams.",
+  "author": {
+    "name": "Category Manager Team"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Seller Diagnosis Automator",
+    "shortDescription": "Diagnose seller assortment and create an actionable remediation pack.",
+    "longDescription": "A repeatable Mercado Libre workflow for seller performance diagnosis, assortment and price review, seller-facing remediation workbooks, and 60-character Spanish title optimization.",
+    "developerName": "Category Manager Team",
+    "category": "Productivity",
+    "capabilities": [
+      "Data analysis",
+      "Write"
+    ],
+    "defaultPrompt": [
+      "诊断一个 Mercado Libre 商家的货盘、流量和转化问题",
+      "生成卖家整改表、话术和7-14天测试计划",
+      "把这些西语标题优化到60个字符以内"
+    ],
+    "brandColor": "#FFE600"
+  }
+}

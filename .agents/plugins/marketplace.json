@@ -1,0 +1,20 @@
+{
+  "name": "category-manager-team",
+  "interface": {
+    "displayName": "Category Manager Team"
+  },
+  "plugins": [
+    {
+      "name": "seller-diagnosis-automator",
+      "source": {
+        "source": "local",
+        "path": "./plugins/seller-diagnosis-automator"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
